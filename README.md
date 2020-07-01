@@ -1,4 +1,4 @@
-<img src="./assets/balance-account.png" width="350" title="balance app">
+<img src="./src/assets/balance-account.png" width="350" title="balance app">
 
 
 
