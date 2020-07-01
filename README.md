@@ -1,4 +1,4 @@
-![alt text]('./src/assets/balance-account.png')
+<img src="./assets/balance-account.png" width="350" title="balance app">
 
 
 
